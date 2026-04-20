@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Exercice_docker
 =======
 # Exercices Docker — Formation pratique
@@ -18,4 +17,5 @@ docker-exercices/
 ├── exercice-9/   Stack complète Flask+PostgreSQL+Nginx
 └── exercice-10/  Sécurité, optimisation & debugging
 ```
->>>>>>> f7e65c3 (init: structure complète des 10 exercices Docker)
+
+
